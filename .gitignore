@@ -1,0 +1,13 @@
+# Dataset y modelos: no se suben (consigna de entrega)
+data/
+*.pt
+*.pth
+
+# Python / Jupyter
+__pycache__/
+.ipynb_checkpoints/
+.venv/
+venv/
+
+# macOS
+.DS_Store
